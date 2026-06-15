@@ -5,6 +5,10 @@ function [metrics,corrRes,metricTable] = calc_individual_deviations(INT,isTDC,AA
 % Computes individual deviations from a TDC-derived INT hierarchy
 % template and examines their associations with sensory traits
 % measured by the AASP.
+% 
+% Repository accompanying:
+% Shikauchi et al. (2026)
+% https://doi.org/10.64898/2026.02.27.708484
 %
 % Individual INT profiles were modeled as:
 %
