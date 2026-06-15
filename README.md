@@ -1,4 +1,4 @@
-# INT Hierarchy Analysis in Autism Spectrum Disorder
+# Intrinsic Neural Timescale Hierarchy Analysis
 
 MATLAB scripts accompanying:
 
