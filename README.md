@@ -2,7 +2,7 @@
 
 MATLAB scripts accompanying:
 
-**Yumi Shikauchi et al.**  
+**Shikauchi Y., Aoki R., Itahashi T., Shimizu M., Naoe T., Okimura T, Ohta H, Hashimoto R., and Nakamura M.**  
 *Preserved Intrinsic Neural Timescale Organization with Hierarchical Variation in Autism Spectrum Disorder*  
 bioRxiv (2026)  
 DOI: 10.64898/2026.02.27.708484
